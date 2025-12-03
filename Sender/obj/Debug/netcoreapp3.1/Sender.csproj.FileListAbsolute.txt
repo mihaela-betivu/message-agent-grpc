@@ -1,0 +1,55 @@
+C:\Users\Mike\source\repos\Message Agent GRPC\Sender\bin\Debug\netcoreapp3.1\Sender.exe
+C:\Users\Mike\source\repos\Message Agent GRPC\Sender\bin\Debug\netcoreapp3.1\Sender.deps.json
+C:\Users\Mike\source\repos\Message Agent GRPC\Sender\bin\Debug\netcoreapp3.1\Sender.runtimeconfig.json
+C:\Users\Mike\source\repos\Message Agent GRPC\Sender\bin\Debug\netcoreapp3.1\Sender.runtimeconfig.dev.json
+C:\Users\Mike\source\repos\Message Agent GRPC\Sender\bin\Debug\netcoreapp3.1\Sender.dll
+C:\Users\Mike\source\repos\Message Agent GRPC\Sender\bin\Debug\netcoreapp3.1\Sender.pdb
+C:\Users\Mike\source\repos\Message Agent GRPC\Sender\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Mike\source\repos\Message Agent GRPC\Sender\bin\Debug\netcoreapp3.1\Grpc.Core.dll
+C:\Users\Mike\source\repos\Message Agent GRPC\Sender\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\Mike\source\repos\Message Agent GRPC\Sender\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\Mike\source\repos\Message Agent GRPC\Sender\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\Mike\source\repos\Message Agent GRPC\Sender\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mike\source\repos\Message Agent GRPC\Sender\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+C:\Users\Mike\source\repos\Message Agent GRPC\Sender\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+C:\Users\Mike\source\repos\Message Agent GRPC\Sender\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+C:\Users\Mike\source\repos\Message Agent GRPC\Sender\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+C:\Users\Mike\source\repos\Message Agent GRPC\Sender\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+C:\Users\Mike\source\repos\Message Agent GRPC\Sender\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\Mike\source\repos\Message Agent GRPC\Sender\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\Mike\source\repos\Message Agent GRPC\Sender\obj\Debug\netcoreapp3.1\Sender.csproj.AssemblyReference.cache
+C:\Users\Mike\source\repos\Message Agent GRPC\Sender\obj\Debug\netcoreapp3.1\Sender.AssemblyInfoInputs.cache
+C:\Users\Mike\source\repos\Message Agent GRPC\Sender\obj\Debug\netcoreapp3.1\Sender.AssemblyInfo.cs
+C:\Users\Mike\source\repos\Message Agent GRPC\Sender\obj\Debug\netcoreapp3.1\Sender.csproj.CoreCompileInputs.cache
+C:\Users\Mike\source\repos\Message Agent GRPC\Sender\obj\Debug\netcoreapp3.1\Sender.csproj.CopyComplete
+C:\Users\Mike\source\repos\Message Agent GRPC\Sender\obj\Debug\netcoreapp3.1\Sender.dll
+C:\Users\Mike\source\repos\Message Agent GRPC\Sender\obj\Debug\netcoreapp3.1\Sender.pdb
+C:\Users\Mike\source\repos\Message Agent GRPC\Sender\obj\Debug\netcoreapp3.1\Sender.genruntimeconfig.cache
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Sender\bin\Debug\netcoreapp3.1\Sender.exe
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Sender\bin\Debug\netcoreapp3.1\Sender.deps.json
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Sender\bin\Debug\netcoreapp3.1\Sender.runtimeconfig.json
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Sender\bin\Debug\netcoreapp3.1\Sender.runtimeconfig.dev.json
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Sender\bin\Debug\netcoreapp3.1\Sender.dll
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Sender\bin\Debug\netcoreapp3.1\Sender.pdb
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Sender\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Sender\bin\Debug\netcoreapp3.1\Grpc.Core.dll
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Sender\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Sender\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Sender\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Sender\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Sender\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Sender\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Sender\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Sender\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Sender\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Sender\bin\Debug\netcoreapp3.1\Common.dll
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Sender\bin\Debug\netcoreapp3.1\Common.pdb
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Sender\obj\Debug\netcoreapp3.1\Sender.csproj.AssemblyReference.cache
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Sender\obj\Debug\netcoreapp3.1\Sender.GeneratedMSBuildEditorConfig.editorconfig
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Sender\obj\Debug\netcoreapp3.1\Sender.AssemblyInfoInputs.cache
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Sender\obj\Debug\netcoreapp3.1\Sender.AssemblyInfo.cs
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Sender\obj\Debug\netcoreapp3.1\Sender.csproj.CoreCompileInputs.cache
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Sender\obj\Debug\netcoreapp3.1\Sender.csproj.CopyComplete
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Sender\obj\Debug\netcoreapp3.1\Sender.dll
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Sender\obj\Debug\netcoreapp3.1\Sender.pdb
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Sender\obj\Debug\netcoreapp3.1\Sender.genruntimeconfig.cache

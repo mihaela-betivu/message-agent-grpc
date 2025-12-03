@@ -1,0 +1,48 @@
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Common/bin/Debug/net9.0/Common.deps.json
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Common/bin/Debug/net9.0/Common.dll
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Common/bin/Debug/net9.0/Common.pdb
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Common/obj/Debug/net9.0/Common.csproj.AssemblyReference.cache
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Common/obj/Debug/net9.0/Common.GeneratedMSBuildEditorConfig.editorconfig
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Common/obj/Debug/net9.0/Common.AssemblyInfoInputs.cache
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Common/obj/Debug/net9.0/Common.AssemblyInfo.cs
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Common/obj/Debug/net9.0/Common.csproj.CoreCompileInputs.cache
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Common/obj/Debug/net9.0/Common.dll
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Common/obj/Debug/net9.0/refint/Common.dll
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Common/obj/Debug/net9.0/Common.pdb
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Common/obj/Debug/net9.0/ref/Common.dll
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Common/bin/Debug/net9.0/Common.deps.json
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Common/bin/Debug/net9.0/Common.dll
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Common/bin/Debug/net9.0/Common.pdb
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Common/obj/Debug/net9.0/Common.csproj.AssemblyReference.cache
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Common/obj/Debug/net9.0/Common.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Common/obj/Debug/net9.0/Common.AssemblyInfoInputs.cache
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Common/obj/Debug/net9.0/Common.AssemblyInfo.cs
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Common/obj/Debug/net9.0/Common.csproj.CoreCompileInputs.cache
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Common/obj/Debug/net9.0/Common.dll
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Common/obj/Debug/net9.0/refint/Common.dll
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Common/obj/Debug/net9.0/Common.pdb
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Common/obj/Debug/net9.0/ref/Common.dll
+/Users/victor/Downloads/Message Agent GRPC/Common/bin/Debug/net9.0/Common.deps.json
+/Users/victor/Downloads/Message Agent GRPC/Common/bin/Debug/net9.0/Common.dll
+/Users/victor/Downloads/Message Agent GRPC/Common/bin/Debug/net9.0/Common.pdb
+/Users/victor/Downloads/Message Agent GRPC/Common/obj/Debug/net9.0/Common.csproj.AssemblyReference.cache
+/Users/victor/Downloads/Message Agent GRPC/Common/obj/Debug/net9.0/Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/victor/Downloads/Message Agent GRPC/Common/obj/Debug/net9.0/Common.AssemblyInfoInputs.cache
+/Users/victor/Downloads/Message Agent GRPC/Common/obj/Debug/net9.0/Common.AssemblyInfo.cs
+/Users/victor/Downloads/Message Agent GRPC/Common/obj/Debug/net9.0/Common.csproj.CoreCompileInputs.cache
+/Users/victor/Downloads/Message Agent GRPC/Common/obj/Debug/net9.0/Common.dll
+/Users/victor/Downloads/Message Agent GRPC/Common/obj/Debug/net9.0/refint/Common.dll
+/Users/victor/Downloads/Message Agent GRPC/Common/obj/Debug/net9.0/Common.pdb
+/Users/victor/Downloads/Message Agent GRPC/Common/obj/Debug/net9.0/ref/Common.dll
+C:\Users\Minodora\Desktop\Message Agent GRPC\Common\bin\Debug\net9.0\Common.deps.json
+C:\Users\Minodora\Desktop\Message Agent GRPC\Common\bin\Debug\net9.0\Common.dll
+C:\Users\Minodora\Desktop\Message Agent GRPC\Common\bin\Debug\net9.0\Common.pdb
+C:\Users\Minodora\Desktop\Message Agent GRPC\Common\obj\Debug\net9.0\Common.csproj.AssemblyReference.cache
+C:\Users\Minodora\Desktop\Message Agent GRPC\Common\obj\Debug\net9.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minodora\Desktop\Message Agent GRPC\Common\obj\Debug\net9.0\Common.AssemblyInfoInputs.cache
+C:\Users\Minodora\Desktop\Message Agent GRPC\Common\obj\Debug\net9.0\Common.AssemblyInfo.cs
+C:\Users\Minodora\Desktop\Message Agent GRPC\Common\obj\Debug\net9.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Minodora\Desktop\Message Agent GRPC\Common\obj\Debug\net9.0\Common.dll
+C:\Users\Minodora\Desktop\Message Agent GRPC\Common\obj\Debug\net9.0\refint\Common.dll
+C:\Users\Minodora\Desktop\Message Agent GRPC\Common\obj\Debug\net9.0\Common.pdb
+C:\Users\Minodora\Desktop\Message Agent GRPC\Common\obj\Debug\net9.0\ref\Common.dll

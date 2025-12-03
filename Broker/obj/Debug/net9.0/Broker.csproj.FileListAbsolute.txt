@@ -1,0 +1,180 @@
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Broker/bin/Debug/net9.0/appsettings.Development.json
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Broker/bin/Debug/net9.0/appsettings.json
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Broker/bin/Debug/net9.0/Broker.staticwebassets.endpoints.json
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Broker/bin/Debug/net9.0/Broker.exe
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Broker/bin/Debug/net9.0/Broker.deps.json
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Broker/bin/Debug/net9.0/Broker.runtimeconfig.json
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Broker/bin/Debug/net9.0/Broker.dll
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Broker/bin/Debug/net9.0/Broker.pdb
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Broker/bin/Debug/net9.0/Google.Protobuf.dll
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Broker/bin/Debug/net9.0/Grpc.AspNetCore.Server.dll
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Broker/bin/Debug/net9.0/Grpc.AspNetCore.Server.ClientFactory.dll
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Broker/bin/Debug/net9.0/Grpc.Core.dll
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Broker/bin/Debug/net9.0/Grpc.Core.Api.dll
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Broker/bin/Debug/net9.0/Grpc.Net.Client.dll
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Broker/bin/Debug/net9.0/Grpc.Net.ClientFactory.dll
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Broker/bin/Debug/net9.0/Grpc.Net.Common.dll
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Broker/bin/Debug/net9.0/runtimes/linux-arm64/native/libgrpc_csharp_ext.arm64.so
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Broker/bin/Debug/net9.0/runtimes/linux-x64/native/libgrpc_csharp_ext.x64.so
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Broker/bin/Debug/net9.0/runtimes/osx-x64/native/libgrpc_csharp_ext.x64.dylib
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Broker/bin/Debug/net9.0/runtimes/win-x64/native/grpc_csharp_ext.x64.dll
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Broker/bin/Debug/net9.0/runtimes/win-x86/native/grpc_csharp_ext.x86.dll
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Broker/bin/Debug/net9.0/Common.dll
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Broker/bin/Debug/net9.0/Common.pdb
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Broker/obj/Debug/net9.0/Broker.csproj.AssemblyReference.cache
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Broker/obj/Debug/net9.0/Broker.GeneratedMSBuildEditorConfig.editorconfig
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Broker/obj/Debug/net9.0/Broker.AssemblyInfoInputs.cache
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Broker/obj/Debug/net9.0/Broker.AssemblyInfo.cs
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Broker/obj/Debug/net9.0/Broker.csproj.CoreCompileInputs.cache
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Broker/obj/Debug/net9.0/Broker.MvcApplicationPartsAssemblyInfo.cache
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Broker/obj/Debug/net9.0/scopedcss/bundle/Broker.styles.css
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Broker/obj/Debug/net9.0/staticwebassets.build.json
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Broker/obj/Debug/net9.0/staticwebassets.development.json
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Broker/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Broker/obj/Debug/net9.0/staticwebassets/msbuild.Broker.Microsoft.AspNetCore.StaticWebAssets.props
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Broker/obj/Debug/net9.0/staticwebassets/msbuild.Broker.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Broker/obj/Debug/net9.0/staticwebassets/msbuild.build.Broker.props
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Broker/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.Broker.props
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Broker/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.Broker.props
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Broker/obj/Debug/net9.0/staticwebassets.pack.json
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Broker/obj/Debug/net9.0/Broker.csproj.Up2Date
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Broker/obj/Debug/net9.0/Broker.dll
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Broker/obj/Debug/net9.0/refint/Broker.dll
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Broker/obj/Debug/net9.0/Broker.pdb
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Broker/obj/Debug/net9.0/Broker.genruntimeconfig.cache
+D:/UTM/UTM/Anul IV/PAD/Laborator 1 - Broker/Message Agent GRPC/Message Agent GRPC/Broker/obj/Debug/net9.0/ref/Broker.dll
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Broker/bin/Debug/net9.0/appsettings.Development.json
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Broker/bin/Debug/net9.0/Broker.staticwebassets.endpoints.json
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Broker/bin/Debug/net9.0/appsettings.json
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Broker/bin/Debug/net9.0/Broker.exe
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Broker/bin/Debug/net9.0/Broker.deps.json
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Broker/bin/Debug/net9.0/Broker.runtimeconfig.json
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Broker/bin/Debug/net9.0/Broker.dll
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Broker/bin/Debug/net9.0/Broker.pdb
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Broker/bin/Debug/net9.0/Google.Protobuf.dll
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Broker/bin/Debug/net9.0/Grpc.AspNetCore.Server.dll
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Broker/bin/Debug/net9.0/Grpc.AspNetCore.Server.ClientFactory.dll
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Broker/bin/Debug/net9.0/Grpc.Core.dll
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Broker/bin/Debug/net9.0/Grpc.Core.Api.dll
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Broker/bin/Debug/net9.0/Grpc.Net.Client.dll
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Broker/bin/Debug/net9.0/Grpc.Net.ClientFactory.dll
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Broker/bin/Debug/net9.0/Grpc.Net.Common.dll
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Broker/bin/Debug/net9.0/runtimes/linux-arm64/native/libgrpc_csharp_ext.arm64.so
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Broker/bin/Debug/net9.0/runtimes/linux-x64/native/libgrpc_csharp_ext.x64.so
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Broker/bin/Debug/net9.0/runtimes/osx-x64/native/libgrpc_csharp_ext.x64.dylib
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Broker/bin/Debug/net9.0/runtimes/win-x64/native/grpc_csharp_ext.x64.dll
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Broker/bin/Debug/net9.0/runtimes/win-x86/native/grpc_csharp_ext.x86.dll
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Broker/bin/Debug/net9.0/Common.dll
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Broker/bin/Debug/net9.0/Common.pdb
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Broker/obj/Debug/net9.0/Broker.csproj.AssemblyReference.cache
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Broker/obj/Debug/net9.0/Broker.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Broker/obj/Debug/net9.0/Broker.AssemblyInfoInputs.cache
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Broker/obj/Debug/net9.0/Broker.AssemblyInfo.cs
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Broker/obj/Debug/net9.0/Broker.csproj.CoreCompileInputs.cache
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Broker/obj/Debug/net9.0/Broker.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Broker/obj/Debug/net9.0/scopedcss/bundle/Broker.styles.css
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Broker/obj/Debug/net9.0/staticwebassets.build.json
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Broker/obj/Debug/net9.0/staticwebassets.development.json
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Broker/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Broker/obj/Debug/net9.0/staticwebassets/msbuild.Broker.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Broker/obj/Debug/net9.0/staticwebassets/msbuild.Broker.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Broker/obj/Debug/net9.0/staticwebassets/msbuild.build.Broker.props
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Broker/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.Broker.props
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Broker/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.Broker.props
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Broker/obj/Debug/net9.0/staticwebassets.pack.json
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Broker/obj/Debug/net9.0/Broker.csproj.Up2Date
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Broker/obj/Debug/net9.0/Broker.dll
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Broker/obj/Debug/net9.0/refint/Broker.dll
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Broker/obj/Debug/net9.0/Broker.pdb
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Broker/obj/Debug/net9.0/Broker.genruntimeconfig.cache
+C:/Users/Minodora/Desktop/PAD/Lab1/Message Agent GRPC/Message Agent GRPC/Broker/obj/Debug/net9.0/ref/Broker.dll
+/Users/victor/Downloads/Message Agent GRPC/Broker/bin/Debug/net9.0/appsettings.Development.json
+/Users/victor/Downloads/Message Agent GRPC/Broker/bin/Debug/net9.0/appsettings.json
+/Users/victor/Downloads/Message Agent GRPC/Broker/bin/Debug/net9.0/Broker.staticwebassets.endpoints.json
+/Users/victor/Downloads/Message Agent GRPC/Broker/bin/Debug/net9.0/Broker
+/Users/victor/Downloads/Message Agent GRPC/Broker/bin/Debug/net9.0/Broker.deps.json
+/Users/victor/Downloads/Message Agent GRPC/Broker/bin/Debug/net9.0/Broker.runtimeconfig.json
+/Users/victor/Downloads/Message Agent GRPC/Broker/bin/Debug/net9.0/Broker.dll
+/Users/victor/Downloads/Message Agent GRPC/Broker/bin/Debug/net9.0/Broker.pdb
+/Users/victor/Downloads/Message Agent GRPC/Broker/bin/Debug/net9.0/Google.Protobuf.dll
+/Users/victor/Downloads/Message Agent GRPC/Broker/bin/Debug/net9.0/Grpc.AspNetCore.Server.dll
+/Users/victor/Downloads/Message Agent GRPC/Broker/bin/Debug/net9.0/Grpc.AspNetCore.Server.ClientFactory.dll
+/Users/victor/Downloads/Message Agent GRPC/Broker/bin/Debug/net9.0/Grpc.Core.dll
+/Users/victor/Downloads/Message Agent GRPC/Broker/bin/Debug/net9.0/Grpc.Core.Api.dll
+/Users/victor/Downloads/Message Agent GRPC/Broker/bin/Debug/net9.0/Grpc.Net.Client.dll
+/Users/victor/Downloads/Message Agent GRPC/Broker/bin/Debug/net9.0/Grpc.Net.ClientFactory.dll
+/Users/victor/Downloads/Message Agent GRPC/Broker/bin/Debug/net9.0/Grpc.Net.Common.dll
+/Users/victor/Downloads/Message Agent GRPC/Broker/bin/Debug/net9.0/runtimes/linux-arm64/native/libgrpc_csharp_ext.arm64.so
+/Users/victor/Downloads/Message Agent GRPC/Broker/bin/Debug/net9.0/runtimes/linux-x64/native/libgrpc_csharp_ext.x64.so
+/Users/victor/Downloads/Message Agent GRPC/Broker/bin/Debug/net9.0/runtimes/osx-x64/native/libgrpc_csharp_ext.x64.dylib
+/Users/victor/Downloads/Message Agent GRPC/Broker/bin/Debug/net9.0/runtimes/win-x64/native/grpc_csharp_ext.x64.dll
+/Users/victor/Downloads/Message Agent GRPC/Broker/bin/Debug/net9.0/runtimes/win-x86/native/grpc_csharp_ext.x86.dll
+/Users/victor/Downloads/Message Agent GRPC/Broker/bin/Debug/net9.0/Common.dll
+/Users/victor/Downloads/Message Agent GRPC/Broker/bin/Debug/net9.0/Common.pdb
+/Users/victor/Downloads/Message Agent GRPC/Broker/obj/Debug/net9.0/Broker.csproj.AssemblyReference.cache
+/Users/victor/Downloads/Message Agent GRPC/Broker/obj/Debug/net9.0/Broker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/victor/Downloads/Message Agent GRPC/Broker/obj/Debug/net9.0/Broker.AssemblyInfoInputs.cache
+/Users/victor/Downloads/Message Agent GRPC/Broker/obj/Debug/net9.0/Broker.AssemblyInfo.cs
+/Users/victor/Downloads/Message Agent GRPC/Broker/obj/Debug/net9.0/Broker.csproj.CoreCompileInputs.cache
+/Users/victor/Downloads/Message Agent GRPC/Broker/obj/Debug/net9.0/Broker.MvcApplicationPartsAssemblyInfo.cache
+/Users/victor/Downloads/Message Agent GRPC/Broker/obj/Debug/net9.0/scopedcss/bundle/Broker.styles.css
+/Users/victor/Downloads/Message Agent GRPC/Broker/obj/Debug/net9.0/staticwebassets.build.json
+/Users/victor/Downloads/Message Agent GRPC/Broker/obj/Debug/net9.0/staticwebassets.development.json
+/Users/victor/Downloads/Message Agent GRPC/Broker/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/victor/Downloads/Message Agent GRPC/Broker/obj/Debug/net9.0/staticwebassets/msbuild.Broker.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/victor/Downloads/Message Agent GRPC/Broker/obj/Debug/net9.0/staticwebassets/msbuild.Broker.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/victor/Downloads/Message Agent GRPC/Broker/obj/Debug/net9.0/staticwebassets/msbuild.build.Broker.props
+/Users/victor/Downloads/Message Agent GRPC/Broker/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.Broker.props
+/Users/victor/Downloads/Message Agent GRPC/Broker/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.Broker.props
+/Users/victor/Downloads/Message Agent GRPC/Broker/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/victor/Downloads/Message Agent GRPC/Broker/obj/Debug/net9.0/Broker.csproj.Up2Date
+/Users/victor/Downloads/Message Agent GRPC/Broker/obj/Debug/net9.0/Broker.dll
+/Users/victor/Downloads/Message Agent GRPC/Broker/obj/Debug/net9.0/refint/Broker.dll
+/Users/victor/Downloads/Message Agent GRPC/Broker/obj/Debug/net9.0/Broker.pdb
+/Users/victor/Downloads/Message Agent GRPC/Broker/obj/Debug/net9.0/Broker.genruntimeconfig.cache
+/Users/victor/Downloads/Message Agent GRPC/Broker/obj/Debug/net9.0/ref/Broker.dll
+C:\Users\Minodora\Desktop\Message Agent GRPC\Broker\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Minodora\Desktop\Message Agent GRPC\Broker\bin\Debug\net9.0\appsettings.json
+C:\Users\Minodora\Desktop\Message Agent GRPC\Broker\bin\Debug\net9.0\Broker.staticwebassets.endpoints.json
+C:\Users\Minodora\Desktop\Message Agent GRPC\Broker\bin\Debug\net9.0\Broker.exe
+C:\Users\Minodora\Desktop\Message Agent GRPC\Broker\bin\Debug\net9.0\Broker.deps.json
+C:\Users\Minodora\Desktop\Message Agent GRPC\Broker\bin\Debug\net9.0\Broker.runtimeconfig.json
+C:\Users\Minodora\Desktop\Message Agent GRPC\Broker\bin\Debug\net9.0\Broker.dll
+C:\Users\Minodora\Desktop\Message Agent GRPC\Broker\bin\Debug\net9.0\Broker.pdb
+C:\Users\Minodora\Desktop\Message Agent GRPC\Broker\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\Minodora\Desktop\Message Agent GRPC\Broker\bin\Debug\net9.0\Grpc.AspNetCore.Server.dll
+C:\Users\Minodora\Desktop\Message Agent GRPC\Broker\bin\Debug\net9.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\Minodora\Desktop\Message Agent GRPC\Broker\bin\Debug\net9.0\Grpc.Core.dll
+C:\Users\Minodora\Desktop\Message Agent GRPC\Broker\bin\Debug\net9.0\Grpc.Core.Api.dll
+C:\Users\Minodora\Desktop\Message Agent GRPC\Broker\bin\Debug\net9.0\Grpc.Net.Client.dll
+C:\Users\Minodora\Desktop\Message Agent GRPC\Broker\bin\Debug\net9.0\Grpc.Net.ClientFactory.dll
+C:\Users\Minodora\Desktop\Message Agent GRPC\Broker\bin\Debug\net9.0\Grpc.Net.Common.dll
+C:\Users\Minodora\Desktop\Message Agent GRPC\Broker\bin\Debug\net9.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+C:\Users\Minodora\Desktop\Message Agent GRPC\Broker\bin\Debug\net9.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+C:\Users\Minodora\Desktop\Message Agent GRPC\Broker\bin\Debug\net9.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+C:\Users\Minodora\Desktop\Message Agent GRPC\Broker\bin\Debug\net9.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+C:\Users\Minodora\Desktop\Message Agent GRPC\Broker\bin\Debug\net9.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+C:\Users\Minodora\Desktop\Message Agent GRPC\Broker\bin\Debug\net9.0\Common.dll
+C:\Users\Minodora\Desktop\Message Agent GRPC\Broker\bin\Debug\net9.0\Common.pdb
+C:\Users\Minodora\Desktop\Message Agent GRPC\Broker\obj\Debug\net9.0\Broker.csproj.AssemblyReference.cache
+C:\Users\Minodora\Desktop\Message Agent GRPC\Broker\obj\Debug\net9.0\Broker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minodora\Desktop\Message Agent GRPC\Broker\obj\Debug\net9.0\Broker.AssemblyInfoInputs.cache
+C:\Users\Minodora\Desktop\Message Agent GRPC\Broker\obj\Debug\net9.0\Broker.AssemblyInfo.cs
+C:\Users\Minodora\Desktop\Message Agent GRPC\Broker\obj\Debug\net9.0\Broker.csproj.CoreCompileInputs.cache
+C:\Users\Minodora\Desktop\Message Agent GRPC\Broker\obj\Debug\net9.0\Broker.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Minodora\Desktop\Message Agent GRPC\Broker\obj\Debug\net9.0\scopedcss\bundle\Broker.styles.css
+C:\Users\Minodora\Desktop\Message Agent GRPC\Broker\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Minodora\Desktop\Message Agent GRPC\Broker\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Minodora\Desktop\Message Agent GRPC\Broker\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Minodora\Desktop\Message Agent GRPC\Broker\obj\Debug\net9.0\staticwebassets\msbuild.Broker.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Minodora\Desktop\Message Agent GRPC\Broker\obj\Debug\net9.0\staticwebassets\msbuild.Broker.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Minodora\Desktop\Message Agent GRPC\Broker\obj\Debug\net9.0\staticwebassets\msbuild.build.Broker.props
+C:\Users\Minodora\Desktop\Message Agent GRPC\Broker\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Broker.props
+C:\Users\Minodora\Desktop\Message Agent GRPC\Broker\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Broker.props
+C:\Users\Minodora\Desktop\Message Agent GRPC\Broker\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Minodora\Desktop\Message Agent GRPC\Broker\obj\Debug\net9.0\Broker.csproj.Up2Date
+C:\Users\Minodora\Desktop\Message Agent GRPC\Broker\obj\Debug\net9.0\Broker.dll
+C:\Users\Minodora\Desktop\Message Agent GRPC\Broker\obj\Debug\net9.0\refint\Broker.dll
+C:\Users\Minodora\Desktop\Message Agent GRPC\Broker\obj\Debug\net9.0\Broker.pdb
+C:\Users\Minodora\Desktop\Message Agent GRPC\Broker\obj\Debug\net9.0\Broker.genruntimeconfig.cache
+C:\Users\Minodora\Desktop\Message Agent GRPC\Broker\obj\Debug\net9.0\ref\Broker.dll

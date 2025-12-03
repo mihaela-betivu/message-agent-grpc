@@ -1,0 +1,25 @@
+{
+  "name": "message-agent-subscriber",
+  "version": "1.0.0",
+  "description": "Simple Node.js subscriber for gRPC Message Agent",
+  "main": "subscriber.js",
+  "scripts": {
+    "start": "node subscriber.js",
+    "dev": "nodemon subscriber.js"
+  },
+  "dependencies": {
+    "@grpc/grpc-js": "^1.9.0",
+    "@grpc/proto-loader": "^0.7.8",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "keywords": [
+    "grpc",
+    "subscriber",
+    "messaging"
+  ],
+  "author": "Message Agent Team",
+  "license": "MIT"
+}

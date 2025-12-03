@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "rSLOsrZAx0U=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Minodora\\Desktop\\Message Agent GRPC\\Common\\Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Minodora\\.nuget\\packages\\google.protobuf\\3.18.0\\google.protobuf.3.18.0.nupkg.sha512",
+    "C:\\Users\\Minodora\\.nuget\\packages\\grpc\\2.40.0\\grpc.2.40.0.nupkg.sha512",
+    "C:\\Users\\Minodora\\.nuget\\packages\\grpc.core\\2.40.0\\grpc.core.2.40.0.nupkg.sha512",
+    "C:\\Users\\Minodora\\.nuget\\packages\\grpc.core.api\\2.40.0\\grpc.core.api.2.40.0.nupkg.sha512",
+    "C:\\Users\\Minodora\\.nuget\\packages\\grpc.tools\\2.40.0\\grpc.tools.2.40.0.nupkg.sha512",
+    "C:\\Users\\Minodora\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

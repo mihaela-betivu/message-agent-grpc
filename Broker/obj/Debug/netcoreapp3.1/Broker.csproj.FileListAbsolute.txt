@@ -1,0 +1,114 @@
+C:\Users\Mike\source\repos\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Mike\source\repos\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Mike\source\repos\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\Broker.exe
+C:\Users\Mike\source\repos\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\Broker.deps.json
+C:\Users\Mike\source\repos\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\Broker.runtimeconfig.json
+C:\Users\Mike\source\repos\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\Broker.runtimeconfig.dev.json
+C:\Users\Mike\source\repos\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\Broker.dll
+C:\Users\Mike\source\repos\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\Broker.pdb
+C:\Users\Mike\source\repos\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Mike\source\repos\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.dll
+C:\Users\Mike\source\repos\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\Mike\source\repos\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\Mike\source\repos\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\Mike\source\repos\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\Grpc.Net.ClientFactory.dll
+C:\Users\Mike\source\repos\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\Mike\source\repos\Message Agent GRPC\Broker\obj\Debug\netcoreapp3.1\Broker.csproj.AssemblyReference.cache
+C:\Users\Mike\source\repos\Message Agent GRPC\Broker\obj\Debug\netcoreapp3.1\Broker.AssemblyInfoInputs.cache
+C:\Users\Mike\source\repos\Message Agent GRPC\Broker\obj\Debug\netcoreapp3.1\Broker.AssemblyInfo.cs
+C:\Users\Mike\source\repos\Message Agent GRPC\Broker\obj\Debug\netcoreapp3.1\Broker.csproj.CoreCompileInputs.cache
+C:\Users\Mike\source\repos\Message Agent GRPC\Broker\obj\Debug\netcoreapp3.1\Broker.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mike\source\repos\Message Agent GRPC\Broker\obj\Debug\netcoreapp3.1\staticwebassets\Broker.StaticWebAssets.Manifest.cache
+C:\Users\Mike\source\repos\Message Agent GRPC\Broker\obj\Debug\netcoreapp3.1\staticwebassets\Broker.StaticWebAssets.xml
+C:\Users\Mike\source\repos\Message Agent GRPC\Broker\obj\Debug\netcoreapp3.1\scopedcss\bundle\Broker.styles.css
+C:\Users\Mike\source\repos\Message Agent GRPC\Broker\obj\Debug\netcoreapp3.1\Broker.RazorTargetAssemblyInfo.cache
+C:\Users\Mike\source\repos\Message Agent GRPC\Broker\obj\Debug\netcoreapp3.1\Broker.csproj.CopyComplete
+C:\Users\Mike\source\repos\Message Agent GRPC\Broker\obj\Debug\netcoreapp3.1\Broker.dll
+C:\Users\Mike\source\repos\Message Agent GRPC\Broker\obj\Debug\netcoreapp3.1\Broker.pdb
+C:\Users\Mike\source\repos\Message Agent GRPC\Broker\obj\Debug\netcoreapp3.1\Broker.genruntimeconfig.cache
+C:\Users\Mike\source\repos\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\Mike\source\repos\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\Mike\source\repos\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\Grpc.Core.dll
+C:\Users\Mike\source\repos\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+C:\Users\Mike\source\repos\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+C:\Users\Mike\source\repos\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+C:\Users\Mike\source\repos\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+C:\Users\Mike\source\repos\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\appsettings.json
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\Broker.exe
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\Broker.deps.json
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\Broker.runtimeconfig.json
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\Broker.runtimeconfig.dev.json
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\Broker.dll
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\Broker.pdb
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.dll
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.ClientFactory.dll
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\Grpc.Core.dll
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\Grpc.Net.ClientFactory.dll
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\Common.dll
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\Common.pdb
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\obj\Debug\netcoreapp3.1\Broker.csproj.AssemblyReference.cache
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\obj\Debug\netcoreapp3.1\Broker.GeneratedMSBuildEditorConfig.editorconfig
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\obj\Debug\netcoreapp3.1\Broker.AssemblyInfoInputs.cache
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\obj\Debug\netcoreapp3.1\Broker.AssemblyInfo.cs
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\obj\Debug\netcoreapp3.1\Broker.csproj.CoreCompileInputs.cache
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\obj\Debug\netcoreapp3.1\Broker.MvcApplicationPartsAssemblyInfo.cache
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\obj\Debug\netcoreapp3.1\staticwebassets\Broker.StaticWebAssets.Manifest.cache
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\obj\Debug\netcoreapp3.1\staticwebassets\Broker.StaticWebAssets.xml
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\obj\Debug\netcoreapp3.1\scopedcss\bundle\Broker.styles.css
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\obj\Debug\netcoreapp3.1\Broker.RazorTargetAssemblyInfo.cache
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\obj\Debug\netcoreapp3.1\Broker.csproj.CopyComplete
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\obj\Debug\netcoreapp3.1\Broker.dll
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\obj\Debug\netcoreapp3.1\Broker.pdb
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\obj\Debug\netcoreapp3.1\Broker.genruntimeconfig.cache
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\appsettings.json
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\Broker.StaticWebAssets.xml
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\Broker.exe
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\Broker.deps.json
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\Broker.runtimeconfig.json
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\Broker.runtimeconfig.dev.json
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\Broker.dll
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\Broker.pdb
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.dll
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.ClientFactory.dll
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\Grpc.Core.dll
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\Grpc.Net.ClientFactory.dll
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\Common.dll
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\bin\Debug\netcoreapp3.1\Common.pdb
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\obj\Debug\netcoreapp3.1\Broker.csproj.AssemblyReference.cache
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\obj\Debug\netcoreapp3.1\Broker.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\obj\Debug\netcoreapp3.1\Broker.AssemblyInfoInputs.cache
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\obj\Debug\netcoreapp3.1\Broker.AssemblyInfo.cs
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\obj\Debug\netcoreapp3.1\Broker.csproj.CoreCompileInputs.cache
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\obj\Debug\netcoreapp3.1\Broker.MvcApplicationPartsAssemblyInfo.cache
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\obj\Debug\netcoreapp3.1\Broker.RazorTargetAssemblyInfo.cache
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\obj\Debug\netcoreapp3.1\staticwebassets\Broker.StaticWebAssets.Manifest.cache
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\obj\Debug\netcoreapp3.1\staticwebassets\Broker.StaticWebAssets.Pack.cache
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Broker.Microsoft.AspNetCore.StaticWebAssets.props
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Broker.props
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Broker.props
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Broker.props
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\obj\Debug\netcoreapp3.1\Broker.csproj.Up2Date
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\obj\Debug\netcoreapp3.1\Broker.dll
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\obj\Debug\netcoreapp3.1\Broker.pdb
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Broker\obj\Debug\netcoreapp3.1\Broker.genruntimeconfig.cache

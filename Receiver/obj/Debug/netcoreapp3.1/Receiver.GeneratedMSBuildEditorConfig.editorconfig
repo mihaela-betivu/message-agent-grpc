@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = Receiver
+build_property.ProjectDir = D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Receiver\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

@@ -1,0 +1,73 @@
+C:\Users\Mike\source\repos\Message Agent GRPC\Receiver\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Mike\source\repos\Message Agent GRPC\Receiver\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Mike\source\repos\Message Agent GRPC\Receiver\bin\Debug\netcoreapp3.1\Receiver.exe
+C:\Users\Mike\source\repos\Message Agent GRPC\Receiver\bin\Debug\netcoreapp3.1\Receiver.deps.json
+C:\Users\Mike\source\repos\Message Agent GRPC\Receiver\bin\Debug\netcoreapp3.1\Receiver.runtimeconfig.json
+C:\Users\Mike\source\repos\Message Agent GRPC\Receiver\bin\Debug\netcoreapp3.1\Receiver.runtimeconfig.dev.json
+C:\Users\Mike\source\repos\Message Agent GRPC\Receiver\bin\Debug\netcoreapp3.1\Receiver.dll
+C:\Users\Mike\source\repos\Message Agent GRPC\Receiver\bin\Debug\netcoreapp3.1\Receiver.pdb
+C:\Users\Mike\source\repos\Message Agent GRPC\Receiver\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Mike\source\repos\Message Agent GRPC\Receiver\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.dll
+C:\Users\Mike\source\repos\Message Agent GRPC\Receiver\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\Mike\source\repos\Message Agent GRPC\Receiver\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\Mike\source\repos\Message Agent GRPC\Receiver\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\Mike\source\repos\Message Agent GRPC\Receiver\bin\Debug\netcoreapp3.1\Grpc.Net.ClientFactory.dll
+C:\Users\Mike\source\repos\Message Agent GRPC\Receiver\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\Mike\source\repos\Message Agent GRPC\Receiver\obj\Debug\netcoreapp3.1\Receiver.csproj.AssemblyReference.cache
+C:\Users\Mike\source\repos\Message Agent GRPC\Receiver\obj\Debug\netcoreapp3.1\Receiver.AssemblyInfoInputs.cache
+C:\Users\Mike\source\repos\Message Agent GRPC\Receiver\obj\Debug\netcoreapp3.1\Receiver.AssemblyInfo.cs
+C:\Users\Mike\source\repos\Message Agent GRPC\Receiver\obj\Debug\netcoreapp3.1\Receiver.csproj.CoreCompileInputs.cache
+C:\Users\Mike\source\repos\Message Agent GRPC\Receiver\obj\Debug\netcoreapp3.1\Receiver.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mike\source\repos\Message Agent GRPC\Receiver\obj\Debug\netcoreapp3.1\staticwebassets\Receiver.StaticWebAssets.Manifest.cache
+C:\Users\Mike\source\repos\Message Agent GRPC\Receiver\obj\Debug\netcoreapp3.1\staticwebassets\Receiver.StaticWebAssets.xml
+C:\Users\Mike\source\repos\Message Agent GRPC\Receiver\obj\Debug\netcoreapp3.1\scopedcss\bundle\Receiver.styles.css
+C:\Users\Mike\source\repos\Message Agent GRPC\Receiver\obj\Debug\netcoreapp3.1\Receiver.RazorTargetAssemblyInfo.cache
+C:\Users\Mike\source\repos\Message Agent GRPC\Receiver\obj\Debug\netcoreapp3.1\Receiver.csproj.CopyComplete
+C:\Users\Mike\source\repos\Message Agent GRPC\Receiver\obj\Debug\netcoreapp3.1\Receiver.dll
+C:\Users\Mike\source\repos\Message Agent GRPC\Receiver\obj\Debug\netcoreapp3.1\Receiver.pdb
+C:\Users\Mike\source\repos\Message Agent GRPC\Receiver\obj\Debug\netcoreapp3.1\Receiver.genruntimeconfig.cache
+C:\Users\Mike\source\repos\Message Agent GRPC\Receiver\bin\Debug\netcoreapp3.1\Grpc.Core.dll
+C:\Users\Mike\source\repos\Message Agent GRPC\Receiver\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+C:\Users\Mike\source\repos\Message Agent GRPC\Receiver\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+C:\Users\Mike\source\repos\Message Agent GRPC\Receiver\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+C:\Users\Mike\source\repos\Message Agent GRPC\Receiver\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+C:\Users\Mike\source\repos\Message Agent GRPC\Receiver\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+C:\Users\Mike\source\repos\Message Agent GRPC\Receiver\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\Mike\source\repos\Message Agent GRPC\Receiver\bin\Debug\netcoreapp3.1\Common.pdb
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Receiver\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Receiver\bin\Debug\netcoreapp3.1\appsettings.json
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Receiver\bin\Debug\netcoreapp3.1\Receiver.exe
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Receiver\bin\Debug\netcoreapp3.1\Receiver.deps.json
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Receiver\bin\Debug\netcoreapp3.1\Receiver.runtimeconfig.json
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Receiver\bin\Debug\netcoreapp3.1\Receiver.runtimeconfig.dev.json
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Receiver\bin\Debug\netcoreapp3.1\Receiver.dll
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Receiver\bin\Debug\netcoreapp3.1\Receiver.pdb
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Receiver\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Receiver\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.dll
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Receiver\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.ClientFactory.dll
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Receiver\bin\Debug\netcoreapp3.1\Grpc.Core.dll
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Receiver\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Receiver\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Receiver\bin\Debug\netcoreapp3.1\Grpc.Net.ClientFactory.dll
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Receiver\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Receiver\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Receiver\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Receiver\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Receiver\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Receiver\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Receiver\bin\Debug\netcoreapp3.1\Common.dll
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Receiver\bin\Debug\netcoreapp3.1\Common.pdb
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Receiver\obj\Debug\netcoreapp3.1\Receiver.csproj.AssemblyReference.cache
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Receiver\obj\Debug\netcoreapp3.1\Receiver.GeneratedMSBuildEditorConfig.editorconfig
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Receiver\obj\Debug\netcoreapp3.1\Receiver.AssemblyInfoInputs.cache
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Receiver\obj\Debug\netcoreapp3.1\Receiver.AssemblyInfo.cs
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Receiver\obj\Debug\netcoreapp3.1\Receiver.csproj.CoreCompileInputs.cache
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Receiver\obj\Debug\netcoreapp3.1\Receiver.MvcApplicationPartsAssemblyInfo.cache
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Receiver\obj\Debug\netcoreapp3.1\staticwebassets\Receiver.StaticWebAssets.Manifest.cache
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Receiver\obj\Debug\netcoreapp3.1\staticwebassets\Receiver.StaticWebAssets.xml
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Receiver\obj\Debug\netcoreapp3.1\scopedcss\bundle\Receiver.styles.css
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Receiver\obj\Debug\netcoreapp3.1\Receiver.RazorTargetAssemblyInfo.cache
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Receiver\obj\Debug\netcoreapp3.1\Receiver.csproj.CopyComplete
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Receiver\obj\Debug\netcoreapp3.1\Receiver.dll
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Receiver\obj\Debug\netcoreapp3.1\Receiver.pdb
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Receiver\obj\Debug\netcoreapp3.1\Receiver.genruntimeconfig.cache

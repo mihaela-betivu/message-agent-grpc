@@ -1,0 +1,29 @@
+C:\Users\Mike\source\repos\Message Agent GRPC\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Users\Mike\source\repos\Message Agent GRPC\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\Mike\source\repos\Message Agent GRPC\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\Mike\source\repos\Message Agent GRPC\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\Mike\source\repos\Message Agent GRPC\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\Mike\source\repos\Message Agent GRPC\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\Mike\source\repos\Message Agent GRPC\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Users\Mike\source\repos\Message Agent GRPC\Common\obj\Debug\netcoreapp3.1\Common.pdb
+C:\Users\Mike\source\repos\Message Agent GRPC\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Common\bin\Debug\netcoreapp3.1\Common.dll
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Common\bin\Debug\netcoreapp3.1\Common.pdb
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Common\obj\Debug\netcoreapp3.1\Common.dll
+F:\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Common\obj\Debug\netcoreapp3.1\Common.pdb
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Common\bin\Debug\netcoreapp3.1\Common.dll
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Common\bin\Debug\netcoreapp3.1\Common.pdb
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Common\obj\Debug\netcoreapp3.1\Common.dll
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Common\obj\Debug\netcoreapp3.1\Common.pdb

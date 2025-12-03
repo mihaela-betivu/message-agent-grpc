@@ -1,0 +1,12 @@
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Common\bin\Debug\net8.0\Common.deps.json
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Common\bin\Debug\net8.0\Common.dll
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Common\bin\Debug\net8.0\Common.pdb
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Common\obj\Debug\net8.0\Common.csproj.AssemblyReference.cache
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Common\obj\Debug\net8.0\Common.dll
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Common\obj\Debug\net8.0\refint\Common.dll
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Common\obj\Debug\net8.0\Common.pdb
+D:\UTM\UTM\Anul IV\PAD\Laborator 1 - Broker\Message Agent GRPC\Message Agent GRPC\Common\obj\Debug\net8.0\ref\Common.dll

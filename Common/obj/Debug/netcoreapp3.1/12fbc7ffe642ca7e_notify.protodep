@@ -1,0 +1,2 @@
+obj\Debug\netcoreapp3.1\Protos/Notify.cs \
+obj\Debug\netcoreapp3.1\Protos/NotifyGrpc.cs: Protos/notify.proto
